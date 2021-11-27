@@ -45,7 +45,8 @@ Not only does it grant you a license to run such a critical piece of infrastruct
 If you are creating an open source application under a license compatible with the GNU GPL license v3, you may use browserless under the terms of the GPLv3. You can read more about this license [here](https://www.gnu.org/licenses/quick-guide-gplv3.en.html).
   
 
-<h3 align="center"><strong>Thank you to our wonderful sponsors!</strong></h3>
+
+# Thank you to our wonderful sponsors!</strong></h3>
 
 <a href="https://opencollective.com/darkreader/sponsor/0/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/darkreader/sponsor/1/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/1/avatar.svg"></a>
