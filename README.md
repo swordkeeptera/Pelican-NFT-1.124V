@@ -63,11 +63,60 @@ This project exists thanks to all the people who contribute.
 
 <img src="https://opencollective.com/tabler/contributors.svg?width=890&button=false" />
 
-# Backers
+## OpenCollective Backers
 
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/tabler#backer)
+Support this project by becoming a backer. Your image will show up here with a link to your website. [[Become a backer](https://opencollective.com/bootstrap-table#backer)]
 
-<a href="https://opencollective.com/tabler#backers" target="_blank"><img src="https://opencollective.com/tabler/tiers/backer.svg?width=890&button=false" /></a>
-
+<a href="https://opencollective.com/bootstrap-table/backer/0/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/1/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/2/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/3/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/4/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/5/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/6/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/7/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/8/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/9/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/10/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/11/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/12/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/13/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/14/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/15/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/16/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/17/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/18/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/19/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/20/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/21/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/22/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/23/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/24/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/25/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/26/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/27/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/28/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/29/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/29/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/30/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/30/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/31/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/31/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/32/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/32/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/33/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/33/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/34/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/34/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/35/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/35/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/36/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/36/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/37/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/37/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/38/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/38/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/39/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/39/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/40/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/40/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/41/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/41/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/42/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/42/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/43/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/43/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/44/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/44/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/45/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/45/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/46/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/46/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/47/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/47/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/48/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/48/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/49/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/49/avatar.svg"></a>
+<a href="https://opencollective.com/bootstrap-table/backer/50/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/50/avatar.svg"></a>
 
 
