@@ -16,7 +16,7 @@ TsSG analysts.
 
 ###### What can I do?
 
-Most tasks for analyzing cryptocurrencies is implemented through Pelican.
+Most tasks for work with cryptocurrencies is implemented through Pelican.
 
 - Automatic purchase currency. 
 - Creating multi accounts. 
