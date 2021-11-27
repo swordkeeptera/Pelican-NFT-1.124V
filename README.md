@@ -32,7 +32,7 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 | System       | Download |
 | --- | --- |
-| Windows 10 x64/x86 | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
+| Windows 10 x64 / x86 | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
 | Ubuntu 20.04 LTs | SOON |
 
 Example   | Description |
