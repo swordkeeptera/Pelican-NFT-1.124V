@@ -117,6 +117,5 @@ Support this project by becoming a backer. Your image will show up here with a l
 <a href="https://opencollective.com/bootstrap-table/backer/47/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/47/avatar.svg"></a>
 <a href="https://opencollective.com/bootstrap-table/backer/48/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/48/avatar.svg"></a>
 <a href="https://opencollective.com/bootstrap-table/backer/49/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/49/avatar.svg"></a>
-<a href="https://opencollective.com/bootstrap-table/backer/50/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/50/avatar.svg"></a>
 
 
