@@ -35,15 +35,16 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 | Windows 10 x64/x86 | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
 | Ubuntu 20.04 LTs | SOON |
   
-  ```
-╔═══════════════════════╤════════════╗
-║ System                │ Download   ║
-╠═══════════════════════╪════════════╣
-║ Windows 10 x64/x86    │ ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)        ║
-╠═══════════════════════╪════════════╣
-║ buntu 20.04 LTS       │ Kat        ║
-╚═══════════════════════╪════════════╝
-```
+## Testing
+
+Example   | Description |
+-----          | --------- |
+[Unit Tests in TypeScript](testing-unit-ts)      | Mock-based unit tests in TypeScript.
+[Unit Tests in Python](testing-unit-py)          | Mock-based unit tests in Python.
+[Unit Tests in Go](testing-unit-go)              | Mock-based unit tests in Go.
+[Unit Tests in C#](testing-unit-cs)              | Mock-based unit tests in C#.
+[Testing with Policies](testing-pac-ts)          | Tests based on Policy-as-Code in TypeScript.
+[Integration Testing in Go](testing-integration) | Deploy-check-destroy tests in Go.
 
 # Licensing
 
