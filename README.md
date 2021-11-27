@@ -37,7 +37,7 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 System   | Download |
 -----          | --------- |
-Windows 10 x64/x86      | Mock-based unit tests in TypeScript.
+Windows 10 x64/x86(https://vk.com)      | Mock-based unit tests in TypeScript.
 Ubuntu 20.04 LTs        | Mock-based unit tests in Python.
 
 # Licensing
