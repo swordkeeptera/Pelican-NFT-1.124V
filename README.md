@@ -37,8 +37,7 @@ Example   | Description |
 🔸 Ubuntu 20.04 LTS / Soon | Download
 
 # Tools
-### Auto buy
-We allow you to buy tokens among the first
+### Auto buy We allow you to buy tokens among the first
 <img src="https://raw.githubusercontent.com/swordkeeptera/Pelican-NFT-1.124V/main/photo_2021-11-27_12-34-28.jpg">
   
 # Licensing
