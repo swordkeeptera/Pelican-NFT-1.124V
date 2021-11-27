@@ -8,7 +8,7 @@
 ###### [API](https://github.com/puppeteer/puppeteer/blob/v12.0.0/docs/api.md) | [FAQ](#faq) | [Contributing](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) | [Troubleshooting](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
 > The program has been developed by investors for investors based on selenium and chromium.
-Analytics is implemented by using API of one of the popular sites for analytics. All designed tools are protected by copyright and belong to LLK
+Analytics is implemented by using API of one of the popular sites for analytics. All tools are protected by copyright and belong to LLK
 TsSG analysts. 
 
 <!-- [START usecases] -->
