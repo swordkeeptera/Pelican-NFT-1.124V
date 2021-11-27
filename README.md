@@ -42,7 +42,7 @@ Example   | Description |
 <img src="https://i.ibb.co/VjLg9Fh/photo-2021-11-27-12-34-28.jpg">
 
 ### This module allows you to buy coins at distribution faster than other buyers 
-<img src="https://i.ibb.co/F0mB6xz/photo-2021-11-27-12-34-27.jpg">
+<img src="https://i.ibb.co/GC1SgK9/photo-2021-11-27-12-34-27.jpg">
   
 ### Creation and work with multi-accounts 
 <img src="https://i.ibb.co/r3vNfdM/photo-2021-11-27-12-34-29.jpg">
