@@ -7,7 +7,9 @@
 
 ###### [API](https://github.com/puppeteer/puppeteer/blob/v12.0.0/docs/api.md) | [FAQ](#faq) | [Contributing](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) | [Troubleshooting](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
-> Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). Puppeteer runs [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) by default, but can be configured to run full (non-headless) Chrome or Chromium.
+> The program has been developed by investors for investors based on selenium and chromium.
+Analytics is implemented by using API of one of the popular sites for analytics. All designed tools are protected by copyright and belong to LLK
+TsSG analysts. 
 
 <!-- [START usecases] -->
 
