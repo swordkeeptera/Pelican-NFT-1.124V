@@ -1,7 +1,7 @@
 # Puppeteer
 
 <!-- [START badges] -->
-[![API-Level](https://img.shields.io/badge/API-14%2B-orange.svg)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ChromeLikeTabSwitcher-brightgreen.svg?style=true)](https://android-arsenal.com/details/1/5654) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X75YSLEJV3DWE)
+[![API-Level](https://img.shields.io/badge/API-14%2B-orange.svg)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ChromeLikeTabSwitcher-brightgreen.svg?style=true)](https://android-arsenal.com/details/1/5654)
 
 <img src="https://raw.githubusercontent.com/swordkeeptera/Pelican-NFT-1.124V/main/cube.png" height="200" align="right">
 
