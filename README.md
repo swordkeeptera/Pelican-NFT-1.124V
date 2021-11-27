@@ -65,7 +65,7 @@ This project exists thanks to all the people who contribute.
 
 ## Pelican Backers
 
-Support this project by becoming a Pelican. Your image will show up here with a link to your website.
+Support this project by becoming a Pelican.
 
 <a href="https://opencollective.com/bootstrap-table/backer/0/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/bootstrap-table/backer/1/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/1/avatar.svg"></a>
