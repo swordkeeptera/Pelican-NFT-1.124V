@@ -1,10 +1,7 @@
 # Puppeteer
 
 <!-- [START badges] -->
-
-[![Build status](https://github.com/puppeteer/puppeteer/workflows/run-checks/badge.svg)](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [![npm puppeteer package](https://img.shields.io/npm/v/puppeteer.svg)](https://npmjs.org/package/puppeteer)
-
-<img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" height="200" align="right">
+[![API-Level](https://img.shields.io/badge/API-14%2B-orange.svg)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ChromeLikeTabSwitcher-brightgreen.svg?style=true)](https://android-arsenal.com/details/1/5654) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X75YSLEJV3DWE)
 
 ###### [API](https://github.com/puppeteer/puppeteer/blob/v12.0.0/docs/api.md) | [FAQ](#faq) | [Contributing](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) | [Troubleshooting](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
