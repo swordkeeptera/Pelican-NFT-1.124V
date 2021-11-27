@@ -24,6 +24,13 @@ Most tasks for analyzing cryptocurrencies is implemented through Pelican.
 - Creating Telegram Accounts (beta)
 
 
+# Installation
+
+To use the program, download and install the desired version for your device.
+If the program is not installed try reinstalling the package Visual Studio 2013 (VC++ 12.0)
+
+
+
 # Licensing
 
 If you want to use browserless to build commercial sites, applications, or in a continuous-integration system that's closed-source then you'll need to purchase a commercial license. This allows you to keep your software proprietary whilst still using browserless. [You can purchase a commercial license here](https://www.browserless.io/sign-up?type=commercial). A commercial license grants you:
