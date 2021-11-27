@@ -37,11 +37,11 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
   
   ```
 ╔══════╤════════╗
-║ Test │ Header ║
+║ System │ Download ║
 ╠══════╪════════╣
-║ Foo  │ Bar    ║
+║ Windows 10 x64/x86  │ Bar    ║
 ╟──────┼────────╢
-║ Kit  │ Kat    ║
+║ buntu 20.04 LTS  │ Kat    ║
 ╚══════╧════════╝
 ```
 
