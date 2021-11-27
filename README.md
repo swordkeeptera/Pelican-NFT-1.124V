@@ -39,12 +39,8 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 Example   | Description |
 -----          | --------- |
-[Unit Tests in TypeScript](testing-unit-ts)      | Mock-based unit tests in TypeScript.
-[Unit Tests in Python](testing-unit-py)          | Mock-based unit tests in Python.
-[Unit Tests in Go](testing-unit-go)              | Mock-based unit tests in Go.
-[Unit Tests in C#](testing-unit-cs)              | Mock-based unit tests in C#.
-[Testing with Policies](testing-pac-ts)          | Tests based on Policy-as-Code in TypeScript.
-[Integration Testing in Go](testing-integration) | Deploy-check-destroy tests in Go.
+[Windows 10 x64/x86      | Mock-based unit tests in TypeScript.
+[Ubuntu 20.04 LTs         | Mock-based unit tests in Python.
 
 # Licensing
 
