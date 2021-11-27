@@ -63,7 +63,7 @@ This project exists thanks to all the people who contribute.
 
 <img src="https://opencollective.com/tabler/contributors.svg?width=890&button=false" />
 
-## OpenCollective Backers
+## Pelican Backers
 
 Support this project by becoming a backer. Your image will show up here with a link to your website.
 
