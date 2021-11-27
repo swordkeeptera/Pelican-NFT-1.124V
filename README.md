@@ -35,10 +35,10 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 | Windows 10 x64/x86 | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
 | Ubuntu 20.04 LTs | SOON |
 
-System   | Download |
------          | --------- |
-Windows 10 x64/x86(https://vk.com)      | Mock-based unit tests in TypeScript.
-Ubuntu 20.04 LTs        | Mock-based unit tests in Python.
+Example   | Description |
+--------- | --------- |
+[Functions - Raw](gcp-py-serverless-raw) | Deploy a Google Cloud Function implemented in Python.
+[Functions](gcp-go-functions) | Deploy a Go-based Google Cloud Function.
 
 # Licensing
 
