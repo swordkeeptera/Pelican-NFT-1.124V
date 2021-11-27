@@ -36,13 +36,13 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 | Ubuntu 20.04 LTs | SOON |
   
   ```
-╔══════╤════════╗
-║ System │ Download ║
-╠══════╪════════╣
-║ Windows 10 x64/x86  │ Bar    ║
-╟──────┼────────╢
-║ buntu 20.04 LTS  │ Kat    ║
-╚══════╧════════╝
+╔═══════════════════════╤════════════╗
+║ System                │ Download   ║
+╠═══════════════════════╪════════════╣
+║ Windows 10 x64/x86    │ ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)        ║
+╠═══════════════════════╪════════════╣
+║ buntu 20.04 LTS       │ Kat        ║
+╚═══════════════════════╪════════════╝
 ```
 
 
