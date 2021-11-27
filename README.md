@@ -30,7 +30,9 @@ Most tasks for analyzing cryptocurrencies is implemented through Pelican.
 To use the program, download and install the desired version for your device.
 If the program is not installed try reinstalling the package Visual Studio 2013 (VC++ 12.0)
 
-
+| Option | Description |
+| --- | --- |
+| Add a Mini-Map | The little dots that appear next to the column toggle popup. Use the `data-tablesaw-minimap` attribute: `<table data-tablesaw-mode="columntoggle" data-tablesaw-minimap>` |
 
 # Licensing
 
