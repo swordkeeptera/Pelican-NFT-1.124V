@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-CHROME-yellow?style=for-the-badge" > <img src="https://img.shields.io/badge/-YANDEX-red?style=for-the-badge" > <img src="https://img.shields.io/badge/-FIREFOX-orange?style=for-the-badge" >
 
-<img src="https://shields.io/badge/quality-4.125-brightgreen"> <img src="https://shields.io/badge/score-88%2F100-green"><img src="ttps://shields.io/badge/code%20quality-A-brightgreen">
+<img src="https://shields.io/badge/quality-4.125-brightgreen"> <img src="https://shields.io/badge/score-88%2F100-green"><img src="https://shields.io/badge/code%20quality-A-brightgreen">
 
 > The program has been developed by investors for investors based on selenium and chromium.
 Analytics is implemented by using API of one of the popular sites for analytics. All tools are protected by copyright and belong to LLK
