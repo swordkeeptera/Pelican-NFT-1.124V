@@ -1,6 +1,6 @@
 # Pelican Analytics
 
-<img src="https://img.shields.io/badge/-CHROME-gray?style=for-the-badge" ><img src="https://img.shields.io/badge/-YANDEX-gray?style=for-the-badge" ><img src="https://img.shields.io/badge/-FIREFOX-gray?style=for-the-badge" >
+<img src="https://img.shields.io/badge/-CHROME-yellow?style=for-the-badge" ><img src="https://img.shields.io/badge/-YANDEX-red?style=for-the-badge" ><img src="https://img.shields.io/badge/-FIREFOX-orange?style=for-the-badge" >
 
 > The program has been developed by investors for investors based on selenium and chromium.
 Analytics is implemented by using API of one of the popular sites for analytics. All tools are protected by copyright and belong to LLK
