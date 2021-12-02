@@ -6,7 +6,9 @@
  
 <img src="https://img.shields.io/badge/-CHROME-black">
 
-<img src="https://raw.githubusercontent.com/swordkeeptera/Pelican-NFT-1.124V/main/cube.png" height="200" align="right">
+<img src="https://img.shields.io/badge/-CHROME-gray?style=for-the-badge" >
+<img src="https://img.shields.io/badge/-YANDEX-gray?style=for-the-badge" >
+<img src="https://img.shields.io/badge/-FIREFOX-gray?style=for-the-badge" >
 
 > The program has been developed by investors for investors based on selenium and chromium.
 Analytics is implemented by using API of one of the popular sites for analytics. All tools are protected by copyright and belong to LLK
