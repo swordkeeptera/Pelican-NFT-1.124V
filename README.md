@@ -1,5 +1,3 @@
-
-DONT WORK! UPDATED!
 # Pelican Analytics
 
 <!-- [START badges] -->
